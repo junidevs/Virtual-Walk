@@ -68,8 +68,5 @@ As a `"Tags"` on image I have used `"Pannellum Hotspots"` which can be attached 
 ![Views](https://user-images.githubusercontent.com/52135894/120906685-c555f300-c65b-11eb-901a-60ef3a3d8543.png)
 =======
 
-## Views from app
->>>>>>> Main Commit
-
 # Thanks for reviewing my code 🥳
 
