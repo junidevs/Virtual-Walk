@@ -54,7 +54,7 @@ const App = () =>{
   return(
     <Fragment>
       {/*<Suspense fallback={<div>Loading...</div>}>*/}
-        <h1 className="title_box_Container">Let's explore our bar 🍻</h1>
+        <h1 className="title_box_Container">Let's explore our see 🏄🏼</h1>
       {
       moonMenu 
           ?  <RenderMoonMenu position={position} infoAlarmBox={infoAlarmBox} setMoonMenu={setMoonMenu}/> 
