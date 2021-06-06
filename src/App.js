@@ -2,7 +2,7 @@ import React ,{ useEffect , useState , Fragment } from 'react';
 import { Pannellum } from "pannellum-react";
 import { debounce ,longPressMenu } from './helpers/helpers'
 import RenderMoonMenu from './MoonMenu';
-import room from './assets/room.jpg'
+import panorama from './assets/panorama.jpg'
 //const Pannellum = React.lazy(() => import('./MoonMenu'));
 
 const App = () =>{
@@ -63,7 +63,7 @@ const App = () =>{
         <Pannellum
             width="100vw"
             height="95vh"
-            image={room}
+            image={panorama}
             pitch={10}
             yaw={180}
             hfov={110}
